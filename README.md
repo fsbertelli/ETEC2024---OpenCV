@@ -5,6 +5,7 @@ O minicurso de Python e OpenCV foi especialmente desenvolvido para os alunos do 
 # Detecção de Rostos com Python e OpenCV
 
 # Instale as dependências
+
 pip install opencv-python
 
 # Sobre
@@ -19,7 +20,6 @@ Este projeto demonstra como usar a biblioteca OpenCV para capturar vídeo da web
 - Desenho de retângulos ao redor dos rostos detectados.
 - Exibição do vídeo com os rostos detectados em uma janela.
 
-# Detecção de Rostos com OpenCV
 
 # Detecção de Objetos Azuis com Python e OpenCV
 
