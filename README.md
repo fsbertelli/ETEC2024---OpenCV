@@ -1,4 +1,4 @@
-#Descrição
+# Descrição
 
 O minicurso de Python e OpenCV foi especialmente desenvolvido para os alunos do curso técnico de Desenvolvimento de Sistemas da Etec Araçatuba. O evento ocorreu no dia 03 de agosto de 2024 e teve como objetivo introduzir os participantes ao mundo da visão computacional, focando especificamente no reconhecimento facial e no reconhecimento de objetos com base na cor.
 
