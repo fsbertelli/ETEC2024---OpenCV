@@ -24,7 +24,9 @@ Este projeto demonstra como usar a biblioteca OpenCV para capturar vídeo da web
 # Detecção de Objetos Azuis com Python e OpenCV
 
 ## Instale as dependências
+
 pip install opencv-python
+
 pip install numpy
 
 ## Sobre
