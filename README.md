@@ -7,11 +7,11 @@ O minicurso de Python e OpenCV foi especialmente desenvolvido para os alunos do 
 # Instale as dependências
 pip install opencv-python
 
-## Sobre
+# Sobre
 
 Este projeto demonstra como usar a biblioteca OpenCV para capturar vídeo da webcam, converter para escala de cinza, detectar rostos usando um classificador em cascata Haar, e desenhar retângulos ao redor dos rostos detectados.
 
-## Funcionalidades
+# Funcionalidades
 
 - Captura de vídeo em tempo real usando a webcam.
 - Conversão de frames para escala de cinza para melhor desempenho na detecção de rostos.
@@ -27,11 +27,11 @@ Este projeto demonstra como usar a biblioteca OpenCV para capturar vídeo da web
 pip install opencv-python
 pip install numpy
 
-## Sobre
+# Sobre
 
 Este projeto demonstra como usar a biblioteca OpenCV para detectar objetos da cor azul em tempo real utilizando a webcam.
 
-## Funcionalidades
+# Funcionalidades
 
 - Captura de vídeo em tempo real usando a webcam.
 - Detecção de objetos na cor azul em tempo real.
